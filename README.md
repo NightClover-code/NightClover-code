@@ -6,13 +6,14 @@
 <img src="https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=Redux&logoColor=white" />
 <a href='https://achrafdev.com'>Portfolio Website</a>
 
+
 Hi there!
 
 My name is Achraf and I'm a JAMStack developer who loves to work with modern web technologies such as React, Redux, and Typescript.
 
 I started my journey as a self-taught web developer right out of High School when I first got fascinated by the web development world and wanted to build amazing progressive web apps. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.
 
-# Connect With Me
+# Connect With Me ✉️
 
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/achrafdev)
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://www.linkedin.com/in/achraf-elmouhib-583563200/)
