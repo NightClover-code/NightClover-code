@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/-React-4A62B5?style=for-the-badge&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=Redux&logoColor=white" />
-Website: https://achrafdev.com
+<a href='https://achrafdev.com'>Portfolio Website</a>
 
 Hi there!
 
