@@ -5,8 +5,7 @@
 <img src="https://img.shields.io/badge/-React-4A62B5?style=for-the-badge&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=Redux&logoColor=white" />
 <a href='https://achrafdev.com'>Portfolio Website</a>
-
-
+<br />
 Hi there!
 
 My name is Achraf and I'm a JAMStack developer who loves to work with modern web technologies such as React, Redux, and Typescript.
@@ -20,6 +19,6 @@ I started my journey as a self-taught web developer right out of High School whe
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://www.twitter.com/AchrafElmouhib)
 
 
-
+<br />
 [![Stats](https://github-readme-stats.vercel.app/api?username=NightClover-code&show_icons=true&theme=radical)](https://github.com/NightClover-code)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NightClover-code&layout=compact&theme=radical)](https://github.com/NightClover-code)
