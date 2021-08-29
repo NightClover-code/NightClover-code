@@ -1,6 +1,6 @@
 ### <h1>Hi there, I am Achraf 👋        
  
-My name is Achraf and I'm a JAMStack developer who loves to work with modern web technologies such as React, Next.js, and Typescript.
+My name is Achraf and I'm a JAMStack developer who loves to work with modern web technologies. My goal is to provide value to the large community of designers and developers.
 
 I started my journey as a self-taught web developer right out of High School when I first got fascinated by the web development world and wanted to build amazing progressive web apps. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.
   
