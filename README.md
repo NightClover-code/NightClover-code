@@ -1,15 +1,15 @@
 ### <h1>Hi there, I am Achraf 👋        
  
-My name is Achraf and I'm a FullStack developer who loves to work with modern web technologies. My goal is to provide value to the large community of designers and developers.
+My name is Achraf and I'm a Full-stack developer who loves to work with modern technologies. My goal is to provide value to the large community of designers and developers.
 
-I started my journey as a self-taught web developer right out of High School when I first got fascinated by the web development world and wanted to build amazing progressive web apps. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.
+I started my journey as a self-taught web developer right out of High School when I first got fascinated by the web development world and wanted to build amazing experiences for the web. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.
   
  
  ## More about me                                                
-- ⚡ I’m a UI/UX designer and Full-stack developer.                                  
+- ⚡ I’m a UI/UX designer and Full-stack JS developer.                                  
 - 👨🏽‍💻 I spend most of my time designing & building awesome web apps.
 - 🚀 I enjoy building complex APIs using the hottest technologies.
-- 🟦 Next.js, Nest.js and typescript enthusiast.
+- 🟦 Next.js, JAMStack and typescript enthusiast.
 - 📫 Get in touch: achrafdev23@gmail.com             
 
 
