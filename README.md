@@ -6,7 +6,7 @@ I started my journey as a self-taught web developer right out of High School whe
   
  
  ## More about me                                                
-- ⚡ I’m a UI/UX designer and Full-stack JS developer.                                  
+- ⚡ I’m a UI designer and Full-stack JS developer.                                  
 - 👨🏽‍💻 I spend most of my time designing & building awesome web apps.
 - 🚀 I enjoy building complex APIs using the hottest technologies.
 - 🟦 Next.js, JAMStack and typescript enthusiast.
