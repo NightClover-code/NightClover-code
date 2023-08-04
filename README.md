@@ -40,16 +40,5 @@ I started my journey as a self-taught web developer right out of High School whe
  <a href="https://www.instagram.com/achrafdev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
  
-<!-- ## My Contribution Streak
-
-
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=NightClover-code&show_icons=true&theme=bear&line_height=25">
  
-  <a href="https://github.com/Hrithik5/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NightClover-code&theme=bear&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
- 
- </p>
- --!>
 <!-- ![Achraf's github stats](https://github-readme-stats.vercel.app/api?username=NightClover-code&show_icons=true&hide_border=truetheme=cobalt) -->
