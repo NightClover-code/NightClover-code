@@ -39,6 +39,21 @@ I started my journey as a self-taught web developer right out of High School whe
  <a href="https://twitter.com/AchrafElMouhib" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/achraf-el-mouhib-583563200" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
  <a href="https://www.instagram.com/achrafdev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
+
+
+## My Contribution Streak
+
+ <a href="https://github.com/Hrithik5/github-readme-streak-stats">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NightClover-code&theme=bear&hide_border=true&background=0D1117&stroke=0000"/>
+ </a>
+
+  <!--
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=NightClover-code&show_icons=true&theme=bear&line_height=25">
  
+
+ 
+ </p>
+ --!>
  
 <!-- ![Achraf's github stats](https://github-readme-stats.vercel.app/api?username=NightClover-code&show_icons=true&hide_border=truetheme=cobalt) -->
