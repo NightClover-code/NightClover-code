@@ -11,7 +11,7 @@ I build and stabilize production B2B SaaS: multi-tenant boundaries, RBAC/SSO, bi
 - Observability (logs/metrics/traces), alerts, runbooks
 
 **Stack**
-Next.js / React / TypeScript • Node.js • Postgres • queues/workers • Docker • Cloudflare/Vercel • OpenTelemetry/Grafana
+Next.js / React / TypeScript • Node.js • Postgres • Python • queues/workers • Docker • Cloudflare/Vercel • OpenTelemetry/Grafana
 
 **Contact**
 - X: https://twitter.com/achrafdevx  
