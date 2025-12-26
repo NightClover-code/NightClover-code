@@ -15,5 +15,5 @@ Next.js / React / TypeScript • Node.js • Postgres • queues/workers • Doc
 
 **Contact**
 - X: https://twitter.com/achrafdevx  
-- LinkedIn: https://www.linkedin.com/in/achraf-el-mouhib-583563200  
-- Email: achrafdev23@gmail.com
+- LinkedIn: https://www.linkedin.com/in/achrafdevx
+- Email: hello@achrafdev.com
